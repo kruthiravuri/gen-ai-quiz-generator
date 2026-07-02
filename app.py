@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 from pydantic import BaseModel, Field
 from typing import List
 import os
